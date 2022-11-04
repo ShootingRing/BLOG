@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "spring.thymeleaf",
+      "type": "com.example.newssmdemo.config.ThymeleafProperties",
+      "sourceType": "com.example.newssmdemo.config.ThymeleafProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
